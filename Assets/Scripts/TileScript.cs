@@ -28,6 +28,7 @@ public class TileScript : MonoBehaviour
                 if(missileHit == false)
                 {
                     gameManager.TileClicked(hit.collider.gameObject);
+                    
                 }
             }
         }

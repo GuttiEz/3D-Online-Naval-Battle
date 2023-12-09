@@ -4,5 +4,44 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: ae2befd6efe59494baaf6742ec308746
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 30b680b037862e3469d54418a6f1b50a
+  - enabled: 1
+    path: Assets/Scenes/Online Menu.unity
+    guid: 592b888b931b7c54e8523c459c1d73c1
+  - enabled: 1
+    path: Assets/Scenes/Menu loja.unity
+    guid: 8d3d6f40ef8eb2a4e81163644a0393e1
+  - enabled: 1
+    path: Assets/Scenes/Loja e Inventario.unity
+    guid: 1a32b80a06b92b8478536258978c6905
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Multiplayer.unity
+    guid: e98d5ac51ff931146b3cc15fbc172e55
+  - enabled: 1
+    path: Assets/Scenes/YouWin.unity
+    guid: cba857e845358d44f84f4451b9c6d03a
+  - enabled: 1
+    path: Assets/Scenes/YouLose.unity
+    guid: 405c8585c70b0c54f8d81cedf9afbe2a
+  - enabled: 1
+    path: Assets/Scenes/YouLoseOnline.unity
+    guid: 582d302a90a982b41a1a5a4d8e9250fa
+  - enabled: 1
+    path: Assets/Scenes/YouWinOnline.unity
+    guid: 1a887852dc5716e42816ae429fbe656f
+  - enabled: 1
+    path: Assets/Scenes/YouWinbyGiveUp.unity
+    guid: 8168bb66490d6884eb8b8ade07ade363
+  - enabled: 1
+    path: Assets/Scenes/YouLosebyGiveUp.unity
+    guid: 6faeff468572fb341bfd0edcc1e99031
   m_configObjects: {}
